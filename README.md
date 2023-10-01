@@ -1,6 +1,8 @@
 ## Online Appendix of Paper Titled "A Formal Web Services Architecture Model for Changing PUSH/PULL Data Transfer"
+---
 
-#### Abstract
+### Abstract
+---
 Deciding how data should be transferred among Web services is an important part of their architecture design. 
 Basically, each piece of data is transferred in either PUSH or PULL style.
 The architect's selection of data transfer methods generally has a great impact on both the overall structure and performance of Web services.
@@ -10,5 +12,6 @@ Also, we present an algorithm to generate prototypes of Web services from the ar
 Furthermore, we developed a tool that provides a graph-based UI for the refactoring and can generate deployable prototypes of Web services. 
 To evaluate our method, we conducted case studies for several Web applications and confirmed that the generated prototypes can be used to estimate the performance.
 
-#### Appendix: Equivalence of JAX-RS Prototype and　Data Transfer Architecture Model
+### Appendix: Equivalence of JAX-RS Prototype and Data Transfer Architecture Model
+---
 The detailed proofs are [here](FACS2023_online_appendix.pdf).
