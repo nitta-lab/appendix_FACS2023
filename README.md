@@ -9,3 +9,6 @@ In this paper, we present a formal model to abstract some parts of Web services 
 Also, we present an algorithm to generate prototypes of Web services from the architecture model and selected data transfer methods, and proved the correctness of the algorithm. 
 Furthermore, we developed a tool that provides a graph-based UI for the refactoring and can generate deployable prototypes of Web services. 
 To evaluate our method, we conducted case studies for several Web applications and confirmed that the generated prototypes can be used to estimate the performance.
+
+#### Appendix: Equivalence of JAX-RS Prototype and　Data Transfer Architecture Model
+The detailed proofs are [here](FACS2023_online_appendix.pdf).
